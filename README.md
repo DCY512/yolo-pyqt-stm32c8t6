@@ -1,4 +1,6 @@
 进test里 看config.py的提示
 需要python3.9版本建议使用anaconda
+可以搜一下教程
 创建之后可以pip安装时使用shiyan.py的命令直接复制粘贴
 模型是yoloV8
+启动的时候只需要运行 python MainProgram.py
