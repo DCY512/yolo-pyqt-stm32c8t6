@@ -1,3 +1,3 @@
 进test里 看config.py的提示
 需要python3.9版本建议使用anaconda
-创建之后可以ｐｉｐ安装时使用ｓｈｉｙａｎ．ｐｙ的命令直接复制粘贴
+创建之后可以pip安装时使用shiyan.py的命令直接复制粘贴
